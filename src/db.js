@@ -1,3 +1,5 @@
+//mysql://root:fneirguIOmYgvUVLGLtQNpVrnUKKAlyl@junction.proxy.rlwy.net:59762/railway
+
 import {createPool} from 'mysql2/promise'
 import {
     DB_HOST,
